@@ -1,4 +1,4 @@
-name: deploy movie people app
+name: build movie people app
 
 on:
   push:
